@@ -9,7 +9,10 @@ https://portofolio-website-rouge.vercel.app
 
 ## Steps:
 1) Clone the repository to your local device.
-2)Run npm install to install all the node modules.
+2) Run the following command to install all the node modules.
+```
+npm install
+```
 3) Run the following commands for getting tailwind css in your project:
 ``` npm install -D tailwindcss postcss autoprefixer
 npx tailwindcss init -p
